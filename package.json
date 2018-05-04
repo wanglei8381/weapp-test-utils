@@ -1,0 +1,6 @@
+{
+  "name": "weapp-test-utils",
+  "description": "小程序测试工具",
+  "version": "0.0.1",
+  "main": "src/index"
+}
